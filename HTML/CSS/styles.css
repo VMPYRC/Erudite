@@ -2,4 +2,13 @@ body {
 	background-color: black;
 	color:white;
 	font-family: 'Times New Roman';
-  }
+}
+a:link {
+	color: #ff0080;
+}
+a:visited {
+	color: #9900ff;
+}
+a:hover, a:active {
+	color: #00ffff;
+}
