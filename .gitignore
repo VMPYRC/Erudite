@@ -1,4 +1,5 @@
-/.vs
+/.vs/
+/.vscode/
 /src/
 /C#/bin/
 /C#/obj/
