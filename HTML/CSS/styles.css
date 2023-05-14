@@ -12,3 +12,15 @@ a:visited {
 a:hover, a:active {
 	color: #00ffff;
 }
+table, td, th {
+	border: 1px solid white;
+	border-collapse: collapse;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+tr:hover {
+	background-color: #555555;
+}
